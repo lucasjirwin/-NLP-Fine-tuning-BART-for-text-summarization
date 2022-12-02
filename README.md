@@ -6,5 +6,5 @@ Promising results are achieved on both the category ’a’ and category ’g’
 
 The improvements in abstractive summarization performance seen in this project also bring us closer to democratizing the power of natural language processing by allowing smaller companies, NGOs and local governments to use the latest, most advanced models with smaller amounts of data so as to avoid accruing exorbitant training costs.
 
-Junior_Independent_Work_Code.ipynb contains the code used to fine-tune and train Facebook AI's BART.
-Abstractive Text Summarization with BART.pdf contains the project report written in LateX for my Princeton Junior Independent Work. 
+<b> Junior_Independent_Work_Code.ipynb </b> contains the code used to fine-tune and train Facebook AI's BART.
+<b> Abstractive Text Summarization with BART.pdf </b> contains the project report written in LateX for my Princeton Junior Independent Work. 
